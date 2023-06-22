@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Go to sleep!!!!"
+    return "Go to sleep!!"
